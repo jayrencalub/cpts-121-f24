@@ -1,0 +1,5 @@
+﻿  Processor.c
+  main.c
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA3\calub_PA3\main.c(72,14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  calub_PA3.vcxproj -> C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA3\ARM64\Debug\calub_PA3.exe

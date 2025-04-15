@@ -1,0 +1,5 @@
+﻿  CalorieCalculator.c
+  main.c
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 4\Lab4Task1\Lab4Task1\main.c(17,31): warning C4101: 'output_stream': unreferenced local variable
+  Generating Code...
+  Lab4Task1.vcxproj -> C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 4\Lab4Task1\ARM64\Debug\Lab4Task1.exe

@@ -1,0 +1,7 @@
+﻿  main.c
+  yahtzee.c
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA5\calub_PA5\yahtzee.c(162,2): warning C4047: 'return': 'int' differs in levels of indirection from 'int *'
+  Generating Code...
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA5\calub_PA5\yahtzee.c(359,1): warning C4716: 'reset': must return a value
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA5\calub_PA5\yahtzee.c(403,1): warning C4716: 'ask_to_reroll': must return a value
+  calub_PA5.vcxproj -> C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA5\ARM64\Debug\calub_PA5.exe

@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 12\Lab12Task1\Lab12Task1\main.c(5,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  reverse.c
+  Generating Code...
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 12\Lab12Task1\Lab12Task1\reverse.c(16,1): warning C4715: 'recursion_reverse_string': not all control paths return a value
+  Lab12Task1.vcxproj -> C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 12\Lab12Task1\Lab12Task1\ARM64\Debug\Lab12Task1.exe

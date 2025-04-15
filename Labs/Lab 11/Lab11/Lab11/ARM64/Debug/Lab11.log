@@ -1,0 +1,5 @@
+﻿  main.c
+  payroll.c
+  Generating Code...
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 11\Lab11\Lab11\payroll.c(29,1): warning C4716: 'calc_payments': must return a value
+  Lab11.vcxproj -> C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 11\Lab11\ARM64\Debug\Lab11.exe

@@ -1,0 +1,6 @@
+﻿  main.c
+  payroll.c
+  Generating Code...
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 11\Lab11\Lab11\payroll.c(18,1): warning C4716: 'calc_payments': must return a value
+main.obj : error LNK2019: unresolved external symbol get_employees referenced in function main
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 11\Lab11\Lab11\ARM64\Debug\Lab11.exe : fatal error LNK1120: 1 unresolved externals

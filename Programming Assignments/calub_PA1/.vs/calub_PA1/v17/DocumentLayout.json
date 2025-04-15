@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Programming Assignments\\calub_PA1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C2F3F3-C1CA-45AA-9F9D-042EFD35A40D}|calub_PA1\\calub_PA1.vcxproj|C:\\Mac\\Home\\Documents\\CPT_S 121\\Programming Assignments\\calub_PA1\\calub_PA1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{43C2F3F3-C1CA-45AA-9F9D-042EFD35A40D}|calub_PA1\\calub_PA1.vcxproj|solutionrelative:calub_PA1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Programming Assignments\\calub_PA1\\calub_PA1\\main.c",
+              "RelativeDocumentMoniker": "calub_PA1\\main.c",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Programming Assignments\\calub_PA1\\calub_PA1\\main.c",
+              "RelativeToolTip": "calub_PA1\\main.c",
+              "ViewState": "AgIAACAAAAAgNDMzM7MSwEwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-30T15:15:45.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+﻿  main.c
+  questions.c
+  Generating Code...
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA8\calub_PA8\questions.c(112,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA8\calub_PA8\questions.c(84,1): warning C4715: 'is_palindrome': not all control paths return a value
+  LINK : C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA8\ARM64\Debug\calub_PA8.exe not found or not built by the last incremental link; performing full link
+  calub_PA8.vcxproj -> C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA8\ARM64\Debug\calub_PA8.exe

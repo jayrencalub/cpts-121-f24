@@ -1,0 +1,22 @@
+﻿  battleship.c
+  main.c
+  Generating Code...
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(621,19): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(621,19): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(622,19): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(622,19): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(623,19): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(623,19): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(624,19): warning C4477: 'fprintf' : format string '%.2lf' requires an argument of type 'double', but variadic argument 1 has type 'double *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(625,19): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(625,19): warning C4313: 'fprintf': '%c' in format string conflicts with argument 1 of type 'char *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(627,19): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(627,19): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(628,19): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(628,19): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(629,19): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(629,19): warning C4313: 'fprintf': '%d' in format string conflicts with argument 1 of type 'int *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(630,19): warning C4477: 'fprintf' : format string '%.2lf' requires an argument of type 'double', but variadic argument 1 has type 'double *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(631,19): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\calub_PA6\battleship.c(631,19): warning C4313: 'fprintf': '%c' in format string conflicts with argument 1 of type 'char *'
+  calub_PA6.vcxproj -> C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA6\ARM64\Debug\calub_PA6.exe

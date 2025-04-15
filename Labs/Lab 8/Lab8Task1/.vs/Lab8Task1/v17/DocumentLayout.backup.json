@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Labs\\Lab 8\\Lab8Task1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C754BE5-668F-4EE5-AE2F-0390821D9B2E}|Lab8Task1\\Lab8Task1.vcxproj|C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Labs\\Lab 8\\Lab8Task1\\Lab8Task1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4C754BE5-668F-4EE5-AE2F-0390821D9B2E}|Lab8Task1\\Lab8Task1.vcxproj|solutionrelative:Lab8Task1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C754BE5-668F-4EE5-AE2F-0390821D9B2E}|Lab8Task1\\Lab8Task1.vcxproj|C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Labs\\Lab 8\\Lab8Task1\\Lab8Task1\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4C754BE5-668F-4EE5-AE2F-0390821D9B2E}|Lab8Task1\\Lab8Task1.vcxproj|solutionrelative:Lab8Task1\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "numbers.txt",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Labs\\Lab 8\\Lab8Task1\\Lab8Task1\\numbers.txt",
+              "RelativeDocumentMoniker": "Lab8Task1\\numbers.txt",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Labs\\Lab 8\\Lab8Task1\\Lab8Task1\\numbers.txt",
+              "RelativeToolTip": "Lab8Task1\\numbers.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-04T21:47:05.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Labs\\Lab 8\\Lab8Task1\\Lab8Task1\\main.c",
+              "RelativeDocumentMoniker": "Lab8Task1\\main.c",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Labs\\Lab 8\\Lab8Task1\\Lab8Task1\\main.c*",
+              "RelativeToolTip": "Lab8Task1\\main.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-04T21:46:56.984Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

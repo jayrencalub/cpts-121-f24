@@ -1,0 +1,3 @@
+hours: 11
+total: 9.98
+average: 0.91

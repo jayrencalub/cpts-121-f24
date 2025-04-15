@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 2\Lab2Task2\Lab2Task2\main.c(33,21): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 2\Lab2Task2\Lab2Task2\main.c(37,21): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Lab2Task2.vcxproj -> C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 2\Lab2Task2\ARM64\Debug\Lab2Task2.exe

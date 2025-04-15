@@ -1,0 +1,3 @@
+Random placement
+generate a random number for horizontal or vertical placement, starting point (coord point)
+bound direction length, only go right and down, not up and left

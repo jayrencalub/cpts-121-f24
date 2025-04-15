@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Programming Assignments\\calub_PA2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE30910-6437-407C-9A5C-37F9BC0BA0E6}|calub_PA2\\calub_PA2.vcxproj|C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Programming Assignments\\calub_PA2\\calub_PA2\\equations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDE30910-6437-407C-9A5C-37F9BC0BA0E6}|calub_PA2\\calub_PA2.vcxproj|solutionrelative:calub_PA2\\equations.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE30910-6437-407C-9A5C-37F9BC0BA0E6}|calub_PA2\\calub_PA2.vcxproj|C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Programming Assignments\\calub_PA2\\calub_PA2\\equations.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDE30910-6437-407C-9A5C-37F9BC0BA0E6}|calub_PA2\\calub_PA2.vcxproj|solutionrelative:calub_PA2\\equations.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDE30910-6437-407C-9A5C-37F9BC0BA0E6}|calub_PA2\\calub_PA2.vcxproj|C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Programming Assignments\\calub_PA2\\calub_PA2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DDE30910-6437-407C-9A5C-37F9BC0BA0E6}|calub_PA2\\calub_PA2.vcxproj|solutionrelative:calub_PA2\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "equations.h",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Programming Assignments\\calub_PA2\\calub_PA2\\equations.h",
+              "RelativeDocumentMoniker": "calub_PA2\\equations.h",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Programming Assignments\\calub_PA2\\calub_PA2\\equations.h",
+              "RelativeToolTip": "calub_PA2\\equations.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-13T21:04:33.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "equations.c",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Programming Assignments\\calub_PA2\\calub_PA2\\equations.c",
+              "RelativeDocumentMoniker": "calub_PA2\\equations.c",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Programming Assignments\\calub_PA2\\calub_PA2\\equations.c",
+              "RelativeToolTip": "calub_PA2\\equations.c",
+              "ViewState": "AgIAAEAAAACAmZmZmVkwwIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-13T21:04:22.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Programming Assignments\\calub_PA2\\calub_PA2\\main.c",
+              "RelativeDocumentMoniker": "calub_PA2\\main.c",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Programming Assignments\\calub_PA2\\calub_PA2\\main.c",
+              "RelativeToolTip": "calub_PA2\\main.c",
+              "ViewState": "AgIAADkAAABAZWZmZiYpwCQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-13T21:03:14.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

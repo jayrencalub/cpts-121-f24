@@ -1,0 +1,5 @@
+﻿  equations.c
+  main.c
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA2\calub_PA2\main.c(76,9): warning C4476: 'printf' : unknown type field character ')' in format specifier
+  Generating Code...
+  calub_PA2.vcxproj -> C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Programming Assignments\calub_PA2\ARM64\Debug\calub_PA2.exe

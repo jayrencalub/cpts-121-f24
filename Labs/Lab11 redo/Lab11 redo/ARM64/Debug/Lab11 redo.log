@@ -1,0 +1,6 @@
+﻿  lab11.c
+  main.c
+  Generating Code...
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab11 redo\Lab11 redo\lab11.c(28,1): warning C4716: 'read_records': must return a value
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab11 redo\Lab11 redo\lab11.c(49,1): warning C4716: 'compute_payment': must return a value
+  Lab11 redo.vcxproj -> C:\Mac\Home\Documents\CPT_S 121\Labs\Lab11 redo\ARM64\Debug\Lab11 redo.exe

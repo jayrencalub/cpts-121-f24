@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 12\Lab12Task3\Lab12Task3\main.c(102,1): warning C4715: 'check_for_path': not all control paths return a value
+  Lab12Task3.vcxproj -> C:\Mac\Home\Documents\CPT_S 121\Labs\Lab 12\Lab12Task3\Lab12Task3\ARM64\Debug\Lab12Task3.exe

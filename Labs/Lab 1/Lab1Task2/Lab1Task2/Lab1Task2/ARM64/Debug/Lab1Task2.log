@@ -1,0 +1,4 @@
+﻿  Lab1Task2.c
+C:\Mac\Home\Documents\CPT_S 121\Lab 1\Lab1Task2\Lab1Task2\Lab1Task2.c(54,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+C:\Mac\Home\Documents\CPT_S 121\Lab 1\Lab1Task2\Lab1Task2\Lab1Task2.c(60,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'double'
+  Lab1Task2.vcxproj -> C:\Mac\Home\Documents\CPT_S 121\Lab 1\Lab1Task2\Lab1Task2\ARM64\Debug\Lab1Task2.exe

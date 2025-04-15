@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Lab 1\\Lab1Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{567BF570-4A1D-4BC2-B0DA-B31B8A648DB5}|Lab1Task2\\Lab1Task2.vcxproj|C:\\Mac\\Home\\Documents\\CPT_S 121\\Lab 1\\Lab1Task2\\Lab1Task2\\Lab1Task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{567BF570-4A1D-4BC2-B0DA-B31B8A648DB5}|Lab1Task2\\Lab1Task2.vcxproj|solutionrelative:Lab1Task2\\Lab1Task2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1Task2.c",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Lab 1\\Lab1Task2\\Lab1Task2\\Lab1Task2.c",
+              "RelativeDocumentMoniker": "Lab1Task2\\Lab1Task2.c",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Lab 1\\Lab1Task2\\Lab1Task2\\Lab1Task2.c",
+              "RelativeToolTip": "Lab1Task2\\Lab1Task2.c",
+              "ViewState": "AgIAAEYAAACgBQAAAAAQwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-28T21:36:45.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

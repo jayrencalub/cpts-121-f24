@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Labs\Lab 8\Lab8Task3\Lab8Task3\main.c(11,2): warning C4013: 'srand' undefined; assuming extern returning int
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Labs\Lab 8\Lab8Task3\Lab8Task3\main.c(16,16): warning C4013: 'rand' undefined; assuming extern returning int
+  Lab8Task3.vcxproj -> C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Labs\Lab 8\Lab8Task3\ARM64\Debug\Lab8Task3.exe
