@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Mac\Home\Documents\CPT_S 121\Class Activities\Pointers\Pointers\main.c(9,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int *'
+C:\Mac\Home\Documents\CPT_S 121\Class Activities\Pointers\Pointers\main.c(9,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int *'
+  Pointers.vcxproj -> C:\Mac\Home\Documents\CPT_S 121\Class Activities\Pointers\Pointers\ARM64\Debug\Pointers.exe

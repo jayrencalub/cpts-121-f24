@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Mac\Home\Documents\CPT_S 121\Class Activities\structs\structs\main.c(28,3): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  structs.vcxproj -> C:\Mac\Home\Documents\CPT_S 121\Class Activities\structs\structs\ARM64\Debug\structs.exe

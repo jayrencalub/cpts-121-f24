@@ -1,0 +1,6 @@
+Strings
+
+mutable: can be modified
+immutable: cannot be modified
+
+.csv file: 

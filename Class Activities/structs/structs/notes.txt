@@ -1,0 +1,9 @@
+structs
+
+combines multiple variables into a single "package", called encapsulation
+
+sizeof(int) = 4 bytes
+sizeof(double) = 8 bytes
+sizeof(Student) = 4 + 8 = 12 bytes
+
+bubble sort: sorting technique that compares two adjacent elements and swaps them if needed

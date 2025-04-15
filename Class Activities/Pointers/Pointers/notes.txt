@@ -1,0 +1,9 @@
+September 30, 2024
+
+pointer: a variable that stores an address of another variable
+
+direct value of pointer: the data of the variable being pointed at
+indirect value of pointer: address of the variable being pointed at
+
+call stack: track sequence of function calls
+identifies when local variables and parameters are created and destroyed

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Class Activities\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCAC2D-F191-4F18-8866-D06B8208D156}|HelloWorld\\HelloWorld.vcxproj|C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Class Activities\\HelloWorld\\HelloWorld\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F5FCAC2D-F191-4F18-8866-D06B8208D156}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCAC2D-F191-4F18-8866-D06B8208D156}|HelloWorld\\HelloWorld.vcxproj|C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Class Activities\\HelloWorld\\HelloWorld\\input.dat||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5FCAC2D-F191-4F18-8866-D06B8208D156}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\input.dat||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5FCAC2D-F191-4F18-8866-D06B8208D156}|HelloWorld\\HelloWorld.vcxproj|C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Class Activities\\HelloWorld\\HelloWorld\\output.dat||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F5FCAC2D-F191-4F18-8866-D06B8208D156}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\output.dat||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.dat",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Class Activities\\HelloWorld\\HelloWorld\\input.dat",
+              "RelativeDocumentMoniker": "HelloWorld\\input.dat",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Class Activities\\HelloWorld\\HelloWorld\\input.dat",
+              "RelativeToolTip": "HelloWorld\\input.dat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-09T03:29:57.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "output.dat",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Class Activities\\HelloWorld\\HelloWorld\\output.dat",
+              "RelativeDocumentMoniker": "HelloWorld\\output.dat",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Class Activities\\HelloWorld\\HelloWorld\\output.dat",
+              "RelativeToolTip": "HelloWorld\\output.dat",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-09T03:30:05.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Class Activities\\HelloWorld\\HelloWorld\\main.c",
+              "RelativeDocumentMoniker": "HelloWorld\\main.c",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\WSU CS Archive\\CPT_S 121\\Class Activities\\HelloWorld\\HelloWorld\\main.c",
+              "RelativeToolTip": "HelloWorld\\main.c",
+              "ViewState": "AgIAAAQAAAAAAAAAAACAvRQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-14T22:09:26.322Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+recursion: the process where a function calls itself, divide and conquer approach

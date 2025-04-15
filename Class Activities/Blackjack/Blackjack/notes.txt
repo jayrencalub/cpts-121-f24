@@ -1,0 +1,9 @@
+blackjack
+card game
+52 cards -> 2 - ace
+ace -> 1, 11
+10, J, Q, K
+4 suits - hearts, diamonds, spades, clubs
+
+1st player: 2 hearts, K diamonds = 12
+draws 8 spades = 20

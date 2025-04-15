@@ -1,0 +1,3 @@
+score: 93, grade: A
+score: 75, grade: C
+score: 82, grade: B

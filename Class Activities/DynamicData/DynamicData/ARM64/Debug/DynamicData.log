@@ -1,0 +1,7 @@
+﻿  dynamic.c
+  main.c
+C:\Mac\Home\Documents\CPT_S 121\Class Activities\DynamicData\DynamicData\dynamic.c(53,10): warning C4047: 'function': 'int' differs in levels of indirection from 'char [2]'
+C:\Mac\Home\Documents\CPT_S 121\Class Activities\DynamicData\DynamicData\dynamic.c(53,10): warning C4024: 'putchar': different types for formal and actual parameter 1
+  Generating Code...
+C:\Mac\Home\Documents\CPT_S 121\Class Activities\DynamicData\DynamicData\dynamic.c(45,1): warning C4716: 'delete_at_front': must return a value
+  DynamicData.vcxproj -> C:\Mac\Home\Documents\CPT_S 121\Class Activities\DynamicData\ARM64\Debug\DynamicData.exe

@@ -1,0 +1,17 @@
+﻿  main.c
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(97,15): error C2065: 'outfile': undeclared identifier
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(97,15): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(97,15): warning C4024: 'print_double': different types for formal and actual parameter 1
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(98,15): error C2065: 'outfile': undeclared identifier
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(98,15): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(98,15): warning C4024: 'print_double': different types for formal and actual parameter 1
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(99,15): error C2065: 'outfile': undeclared identifier
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(99,15): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(99,15): warning C4024: 'print_double': different types for formal and actual parameter 1
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(117,15): error C2065: 'outfile': undeclared identifier
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(117,15): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(117,15): warning C4024: 'print_double': different types for formal and actual parameter 1
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(121,15): error C2065: 'outfile': undeclared identifier
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(121,15): warning C4047: 'function': 'FILE *' differs in levels of indirection from 'int'
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(121,15): warning C4024: 'print_double': different types for formal and actual parameter 1
+C:\Mac\Home\Documents\WSU CS Archive\CPT_S 121\Class Activities\HelloWorld\HelloWorld\main.c(89,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data

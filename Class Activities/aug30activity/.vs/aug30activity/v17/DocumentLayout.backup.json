@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\aug30activity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{557F9927-4594-45D7-9158-8FC5AACC4D9F}|aug30activity\\aug30activity.vcxproj|C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\aug30activity\\aug30activity\\ComputeGPA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{557F9927-4594-45D7-9158-8FC5AACC4D9F}|aug30activity\\aug30activity.vcxproj|solutionrelative:aug30activity\\ComputeGPA.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557F9927-4594-45D7-9158-8FC5AACC4D9F}|aug30activity\\aug30activity.vcxproj|C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\aug30activity\\aug30activity\\ComputeGPA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{557F9927-4594-45D7-9158-8FC5AACC4D9F}|aug30activity\\aug30activity.vcxproj|solutionrelative:aug30activity\\ComputeGPA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557F9927-4594-45D7-9158-8FC5AACC4D9F}|aug30activity\\aug30activity.vcxproj|C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\aug30activity\\aug30activity\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{557F9927-4594-45D7-9158-8FC5AACC4D9F}|aug30activity\\aug30activity.vcxproj|solutionrelative:aug30activity\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComputeGPA.h",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\aug30activity\\aug30activity\\ComputeGPA.h",
+              "RelativeDocumentMoniker": "aug30activity\\ComputeGPA.h",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\aug30activity\\aug30activity\\ComputeGPA.h",
+              "RelativeToolTip": "aug30activity\\ComputeGPA.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T15:52:29.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComputeGPA.c",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\aug30activity\\aug30activity\\ComputeGPA.c",
+              "RelativeDocumentMoniker": "aug30activity\\ComputeGPA.c",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\aug30activity\\aug30activity\\ComputeGPA.c",
+              "RelativeToolTip": "aug30activity\\ComputeGPA.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-09T15:52:07.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\aug30activity\\aug30activity\\main.c",
+              "RelativeDocumentMoniker": "aug30activity\\main.c",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\aug30activity\\aug30activity\\main.c",
+              "RelativeToolTip": "aug30activity\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-30T15:51:02.721Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE9BC08-59E5-44BC-B289-76EFBD615305}|Blackjack\\Blackjack.vcxproj|C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\blackjack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFE9BC08-59E5-44BC-B289-76EFBD615305}|Blackjack\\Blackjack.vcxproj|solutionrelative:Blackjack\\blackjack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE9BC08-59E5-44BC-B289-76EFBD615305}|Blackjack\\Blackjack.vcxproj|C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFE9BC08-59E5-44BC-B289-76EFBD615305}|Blackjack\\Blackjack.vcxproj|solutionrelative:Blackjack\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE9BC08-59E5-44BC-B289-76EFBD615305}|Blackjack\\Blackjack.vcxproj|C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\blackjack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FFE9BC08-59E5-44BC-B289-76EFBD615305}|Blackjack\\Blackjack.vcxproj|solutionrelative:Blackjack\\blackjack.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE9BC08-59E5-44BC-B289-76EFBD615305}|Blackjack\\Blackjack.vcxproj|C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FFE9BC08-59E5-44BC-B289-76EFBD615305}|Blackjack\\Blackjack.vcxproj|solutionrelative:Blackjack\\notes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "notes.txt",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\notes.txt",
+              "RelativeDocumentMoniker": "Blackjack\\notes.txt",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\notes.txt",
+              "RelativeToolTip": "Blackjack\\notes.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-27T15:21:59.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "blackjack.h",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\blackjack.h",
+              "RelativeDocumentMoniker": "Blackjack\\blackjack.h",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\blackjack.h",
+              "RelativeToolTip": "Blackjack\\blackjack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-27T15:25:08.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "blackjack.c",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\blackjack.c",
+              "RelativeDocumentMoniker": "Blackjack\\blackjack.c",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\blackjack.c",
+              "RelativeToolTip": "Blackjack\\blackjack.c",
+              "ViewState": "AgIAAIAAAAAQmpmZmdkhwKQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-27T15:24:53.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\main.c",
+              "RelativeDocumentMoniker": "Blackjack\\main.c",
+              "ToolTip": "C:\\Mac\\Home\\Documents\\CPT_S 121\\Class Activities\\Blackjack\\Blackjack\\main.c",
+              "RelativeToolTip": "Blackjack\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-27T15:21:46.622Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

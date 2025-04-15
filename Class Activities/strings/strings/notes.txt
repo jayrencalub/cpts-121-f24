@@ -1,0 +1,10 @@
+Strings
+
+has its own address already
+
+\n and \0 counts as part of the length of the stream
+
+mutable: can be modified
+immutable: cannot be modified
+
+.csv file: text file that uses commas to seperate values

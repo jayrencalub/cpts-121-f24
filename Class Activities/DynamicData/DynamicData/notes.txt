@@ -1,0 +1,22 @@
+heap: dynamic memory, obtain at runtime, can be controlled
+
+allocated, deallocated
+
+node: dynamically allocated block of data, able to link to other nodes
+void*: generatic pointer type
+linked list: connection of nodes
+header pointer: the location of the start of the linked list
+
+***************************************************************
+example: grocery list
+- eggs
+- milk
+- bread
+- cheese
+if you want to get rid of bread, you have to go in order from the start of the list
+***************************************************************
+
+adding new items to the linked list will go to the start of the list
+
+double pointer parameter
+- example: Node**
